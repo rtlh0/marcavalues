@@ -81,12 +81,39 @@ ideologies = [
         }
     },
     {
+        "name": "Vetocratic Fulcism",
+        "stats": {
+            "econ": 0,
+            "dipl": -100,
+            "govt": 0,
+            "scty": -100
+        }
+    },
+    {
         "name": "Sussy Decelerationism",
         "stats": {
             "econ": -100,
             "dipl": 0,
             "govt": 0,
             "scty": 100
+        }
+    },
+    {
+        "name": "Vetocratic Sussy Bakaism",
+        "stats": {
+            "econ": 0,
+            "dipl": -100,
+            "govt": 0,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Cursed Centrism",
+        "stats": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
         }
     },
 ];
