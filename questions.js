@@ -169,5 +169,14 @@ questions = [
             "govt": 0,
             "scty": 15
         }
+    },
+    {
+        "question": "House Coedwig should have a veto over all things Treforic.",
+        "effect": {
+            "econ": 0,
+            "dipl": -15,
+            "govt": 0,
+            "scty": 0
+        }
     }, 
 ];

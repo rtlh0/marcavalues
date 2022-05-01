@@ -36,10 +36,28 @@ ideologies = [
         }
     },
     {
+        "name": "Vetocratic Decelerationism",
+        "stats": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
         "name": "Sussy Decelerationism",
         "stats": {
             "econ": 0,
             "dipl": 50,
+            "govt": 50,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Sussy Vetocratic Decelerationism",
+        "stats": {
+            "econ": 0,
+            "dipl": 0,
             "govt": 50,
             "scty": 0
         }
@@ -111,6 +129,15 @@ ideologies = [
         "name": "Accelerationist Sharastran Valuism",
         "stats": {
             "econ": 100,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Decelerationist Sharastran Valuism",
+        "stats": {
+            "econ": 0,
             "dipl": 50,
             "govt": 50,
             "scty": 100
