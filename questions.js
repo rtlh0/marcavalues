@@ -178,5 +178,50 @@ questions = [
             "govt": 0,
             "scty": 0
         }
+    },
+    {
+        "question": "The office of speaker should have the power to prevent voting on legislation.",
+        "effect": {
+            "econ": 0,
+            "dipl": -15,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "First past the post is a superior voting system.",
+        "effect": {
+            "econ": 0,
+            "dipl": -15,
+            "govt": 0,
+            "scty": 0
+        }
     }, 
+    {
+        "question": "All laws should be treaty-locked for safekeeping.",
+        "effect": {
+            "econ": 0,
+            "dipl": -15,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The President should appoint the cabinet and the cabinet should appoint the President.",
+        "effect": {
+            "econ": 0,
+            "dipl": -15,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Certain important laws should require a special majority to change.",
+        "effect": {
+            "econ": 0,
+            "dipl": -15,
+            "govt": 0,
+            "scty": 0
+        }
+    },
 ];
