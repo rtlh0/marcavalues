@@ -167,7 +167,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 15
+            "scty": -15
         }
     },
     {
