@@ -133,5 +133,41 @@ questions = [
             "govt": 0,
             "scty": 15
         }
+    },
+    {
+        "question": "The Prime Minister of Staparia needs his own office.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -15
+        }
+    },
+    {
+        "question": "Object appears to us as Hunkara.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 15,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The Great Flame is actually Reuw.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -15,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Serceics are superior to other races.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 15
+        }
     }, 
 ];
