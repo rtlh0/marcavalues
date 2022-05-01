@@ -14,7 +14,7 @@ ideologies = [
             "econ": 100,
             "dipl": 50,
             "govt": 50,
-            "scty": 50
+            "scty": 0
         }
     },
     {
@@ -99,12 +99,66 @@ ideologies = [
         }
     },
     {
+        "name": "Sussy Heresy",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Sussy Vetocratic Heresy",
+        "stats": {
+            "econ": 50,
+            "dipl": 0,
+            "govt": 100,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Sussy Vetocratic Accelerationist Heresy",
+        "stats": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 100,
+            "scty": 0
+        }
+    },
+    {
         "name": "Prophetocracy",
         "stats": {
             "econ": 50,
             "dipl": 50,
             "govt": 0,
             "scty": 50
+        }
+    },
+    {
+        "name": "Sussy Prophetocracy",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Sussy Vetocratic Prophetocracy",
+        "stats": {
+            "econ": 50,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Sussy Vetocratic Accelerationist Prophetocracy",
+        "stats": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
