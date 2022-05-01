@@ -22,12 +22,39 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "govt": 0,
+            "scty": 5
         }
     },
     {
         "question": "Osiek needs sea access.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "A strong charter committee is necessary for international peace and security.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Object does not exist.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The Prophetburo has legitimate jurisdiction over the ObjectVerse.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -36,7 +63,34 @@ questions = [
         }
     },
     {
-        "question": "A strong charter committee is necessary for international peace and security.",
+        "question": "My country is thriving.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "Kogoju would be better administered as a Protectorate of An Cosán.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "International courts should participate in conspiracies.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Anything threatening the interests of large countries should be vetoed.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -45,12 +99,12 @@ questions = [
         }
     },
     {
-        "question": "A strong charter committee is necessary for international peace and security.",
+        "question": "Those leaking the minutes of international meetings should be prosecuted.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": -20
         }
-    },
+    }, 
 ];
