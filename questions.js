@@ -2,7 +2,7 @@ questions = [
     {
         "question": "It is better if political parties completely change every day.",
         "effect": {
-            "econ": 10,
+            "econ": 15,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -11,7 +11,16 @@ questions = [
     {
         "question": "It is generally better if national flags are changed often.",
         "effect": {
-            "econ": 10,
+            "econ": 15,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Political change is best brought about by car bombings.",
+        "effect": {
+            "econ": 15,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -23,7 +32,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": -15
         }
     },
     {
@@ -32,14 +41,14 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": -15
         }
     },
     {
         "question": "A strong charter committee is necessary for international peace and security.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": 15,
             "govt": 0,
             "scty": 0
         }
@@ -49,7 +58,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": -15,
             "scty": 0
         }
     },
@@ -58,7 +67,16 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": -15,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Time freezes when we don't pray to Object.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 15,
             "scty": 0
         }
     },
@@ -68,7 +86,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": -15
         }
     },
     {
@@ -77,14 +95,14 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": -15
         }
     },
     {
         "question": "International courts should participate in conspiracies.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": 15,
             "govt": 0,
             "scty": 0
         }
@@ -93,7 +111,7 @@ questions = [
         "question": "Anything threatening the interests of large countries should be vetoed.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": -15,
             "govt": 0,
             "scty": 0
         }
@@ -104,7 +122,16 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -20
+            "scty": 15
+        }
+    },
+    {
+        "question": "Public displays of affection should be banned.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 15
         }
     }, 
 ];
