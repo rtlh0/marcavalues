@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Osiek needs sea access.",
+        "question": "Ostrava needs sea access.",
         "effect": {
             "econ": 0,
             "dipl": 0,
